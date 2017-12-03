@@ -7,7 +7,7 @@
 * put darksky api key into the .env folder
 * npm install request --save
 
-## Heroku Push
+## Heroku Push:
 * git init
 * **git add .**
 * **git commit -m "insert message here"**
@@ -19,7 +19,7 @@
 *If you need to update something and push again, only follow the bolded steps.*
 
 
-## Angular
+## Angular:
 * WeatherCtrl.$inject = ['$scope', 'SelectedData', 'DarkskyWeather'];
   * Selected data stays the same.  Found in app_client/common/services
   * *Must* have services in app.
@@ -34,6 +34,6 @@
   * What you call controller as 'vm' must put var vm = this; in the weather.controller.js
     * KEEP THE SELECTED DATA STUFF
             
-## In Other News
+## In Other News:
 * If the weather is finished by Monday: **_NO ATTENDANCE CHECKER_**
 * Our personal final project [TogetherAlone] can look **nothing** like his Airplane App.
