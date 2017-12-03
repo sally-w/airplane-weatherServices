@@ -35,9 +35,9 @@
         //refactored for Angular 1.6 - removed success/error, used Promises...
         vm.getDepartureWeather = function() {
             
-             var lat = 35;
+             var lat = "34.980335";
              console.log(lat);
-            var lon = "-102";
+            var lon = "-101.918800";
             console.log(lon);
    
    
